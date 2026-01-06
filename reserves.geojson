@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "taganay",
+        "name": "Национальный парк «Таганай»",
+        "type": "нацпарк",
+        "region": "Челябинская область",
+        "description": "Горные хребты Южного Урала, курумники и тайга рядом со Златоустом; популярные маршруты к Откликному гребню и Двуглавой сопке.",
+        "image": "assets/images/taganay.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.7925,
+          55.25972222222222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "visim",
+        "name": "Висимский заповедник",
+        "type": "заповедник",
+        "region": "Свердловская область",
+        "description": "Биосферный заповедник на Среднем Урале: эталонные темнохвойные леса и болота, территория для охраны и научных наблюдений.",
+        "image": "assets/images/visim.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.56527777777777,
+          57.40694444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bashkiria_np",
+        "name": "Национальный парк «Башкирия»",
+        "type": "нацпарк",
+        "region": "Республика Башкортостан",
+        "description": "Национальный парк в Южном Урале с лесными массивами и карстовыми ландшафтами; здесь развивают экотуризм и охраняют природу региона.",
+        "image": "assets/images/bashkiria_np.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          56.53333333333333,
+          53.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ilmen",
+        "name": "Ильменский заповедник",
+        "type": "заповедник",
+        "region": "Челябинская область",
+        "description": "Один из старейших заповедников России, известен уникальными минералами Ильменских гор и богатым природным комплексом вокруг Миасса.",
+        "image": "assets/images/ilmen.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.159166666666664,
+          55.015277777777776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "yugyd_va",
+        "name": "Национальный парк «Югыд ва»",
+        "type": "нацпарк",
+        "region": "Республика Коми",
+        "description": "Крупнейший национальный парк Европы на Приполярном и Северном Урале: горные тундры, тайга и труднодоступные долины рек.",
+        "image": "assets/images/yugyd_va.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.21666666666667,
+          63.983333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bazhov",
+        "name": "Природный парк «Бажовские места»",
+        "type": "природный парк",
+        "region": "Свердловская область",
+        "description": "Природный парк рядом с Сысертью, назван в честь П. П. Бажова; знаменит скалами и озером Тальков Камень и сетью экотроп.",
+        "image": "assets/images/bazhov.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.75,
+          56.43333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "zyuratkul",
+        "name": "Национальный парк «Зюраткуль»",
+        "type": "нацпарк",
+        "region": "Челябинская область",
+        "description": "Горное озеро Зюраткуль, хребты и высокогорные болота Южного Урала; популярное место для походов и зимних маршрутов.",
+        "image": "assets/images/zyuratkul.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.916666666666664,
+          54.848888888888894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "basegi",
+        "name": "Заповедник Басеги",
+        "type": "заповедник",
+        "region": "Пермский край",
+        "description": "Заповедник на западном склоне Среднего Урала: елово‑пихтовая тайга и горный хребет Басеги, охрана редких видов.",
+        "image": "assets/images/basegi.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.05,
+          58.083333333333336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "shulgan",
+        "name": "Заповедник «Шульган‑Таш»",
+        "type": "заповедник",
+        "region": "Республика Башкортостан",
+        "description": "Заповедник в районе пещеры Шульган‑Таш (Каповой): охрана природных комплексов и традиционного бортничества.",
+        "image": "assets/images/shulgan.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.05,
+          53.03333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "denezhkin",
+        "name": "Заповедник «Денежкин Камень»",
+        "type": "заповедник",
+        "region": "Свердловская область",
+        "description": "Североуральская тайга и горные экосистемы вокруг массива Денежкин Камень; строгий режим охраны и ограниченный доступ.",
+        "image": "assets/images/denezhkin.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.49305555555556,
+          60.50805555555556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "vishersky",
+        "name": "Вишерский заповедник",
+        "type": "заповедник",
+        "region": "Пермский край",
+        "description": "Северный Урал у истоков Вишеры: нетронутая тайга, горные хребты (в т.ч. Тулымский камень) и труднодоступные территории.",
+        "image": "assets/images/vishersky.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.21666666666667,
+          61.483333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "east_ural",
+        "name": "Восточно‑Уральский заповедник",
+        "type": "заповедник",
+        "region": "Челябинская область",
+        "description": "Особый заповедник в зоне Восточно‑Уральского радиоактивного следа: территория закрыта, ведутся охранные и научные работы.",
+        "image": "assets/images/east_ural.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.89944444444444,
+          55.81444444444444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "south_ural",
+        "name": "Южно‑Уральский заповедник",
+        "type": "заповедник",
+        "region": "Башкортостан / Челябинская область",
+        "description": "Крупный горно‑таёжный заповедник в самой высокой части Южного Урала (хребты и вершины района Ямантау).",
+        "image": "assets/images/south_ural.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.88583333333333,
+          54.34666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "olenyi_ruchyi",
+        "name": "Природный парк «Оленьи ручьи»",
+        "type": "природный парк",
+        "region": "Свердловская область",
+        "description": "Живописные берега реки Серги, скалы и карстовые пещеры; один из самых доступных парков области с оборудованными тропами.",
+        "image": "assets/images/olenyi_ruchyi.jpg",
+        "vk": "https://vk.com/zapural"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.25,
+          56.516666666666666
+        ]
+      }
+    }
+  ]
+}
